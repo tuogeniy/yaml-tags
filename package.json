@@ -1,0 +1,16 @@
+{
+  "name": "ripazhawtfaezakmi",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node ./src/main.js",
+    "test": "ava"
+  },
+  "dependencies": {
+    "yaml": "2.0.0-10"
+  },
+  "devDependencies": {
+    "@types/node": "17.0.8",
+    "ava": "4.0.1"
+  }
+}
